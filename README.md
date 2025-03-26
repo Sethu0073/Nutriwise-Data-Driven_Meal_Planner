@@ -1,6 +1,6 @@
 # NutriWise – Data-Driven Meal Planner
 ## Overview
-NutriWise is an intelligent meal planning application that provides personalized Indian meal recommendations based on a user's Basal Metabolic Rate (BMR), dietary preferences, and health goals. It features a Tkinter GUI, an interactive recommendation system, and an optional GMM cluster visualization to showcase the nutritional relationship between different food items.
+NutriWise is an intelligent meal planning application that provides personalized Indian meal recommendations based on user's Basal Metabolic Rate (BMR), dietary preferences, and health goals. It features a Tkinter GUI, an interactive recommendation system, and an optional GMM cluster visualization to showcase the nutritional relationship between different food items.
 ## Features
 1. Personalized Meal Planning – Calculates BMR and recommends meals based on macronutrient targets.
 2. Vegetarian & Non-Vegetarian Options – Users can filter meal choices based on dietary preferences.
